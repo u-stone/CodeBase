@@ -1,0 +1,5 @@
+LIBRARY "grid.arx"
+EXPORTS
+    acrxEntryPoint PRIVATE
+    acrxGetApiVersion PRIVATE
+

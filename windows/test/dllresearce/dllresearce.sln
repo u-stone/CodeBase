@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dllresearce", "dllresearce\dllresearce.vcxproj", "{E7F2F4B1-9018-495A-85E6-DB2B0C7F3105}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dlltest", "dlltest\dlltest.vcxproj", "{E24EBF68-EB8F-4E88-B807-459ED990EB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F2F4B1-9018-495A-85E6-DB2B0C7F3105}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7F2F4B1-9018-495A-85E6-DB2B0C7F3105}.Debug|Win32.Build.0 = Debug|Win32
+		{E7F2F4B1-9018-495A-85E6-DB2B0C7F3105}.Release|Win32.ActiveCfg = Release|Win32
+		{E7F2F4B1-9018-495A-85E6-DB2B0C7F3105}.Release|Win32.Build.0 = Release|Win32
+		{E24EBF68-EB8F-4E88-B807-459ED990EB14}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E24EBF68-EB8F-4E88-B807-459ED990EB14}.Debug|Win32.Build.0 = Debug|Win32
+		{E24EBF68-EB8F-4E88-B807-459ED990EB14}.Release|Win32.ActiveCfg = Release|Win32
+		{E24EBF68-EB8F-4E88-B807-459ED990EB14}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
